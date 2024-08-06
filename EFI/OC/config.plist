@@ -1810,6 +1810,8 @@
 		<array/>
 		<key>Security</key>
 		<dict>
+			<key>AllowNvramReset</key>
+			<true/>
 			<key>AllowSetDefault</key>
 			<true/>
 			<key>ApECID</key>
@@ -2088,6 +2090,12 @@
 				<false/>
 				<key>Path</key>
 				<string>ToggleSipEntry.efi</string>
+			</dict>
+			<dict>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>ResetNvramEntry.efi</string>
 			</dict>
 		</array>
 		<key>Input</key>
