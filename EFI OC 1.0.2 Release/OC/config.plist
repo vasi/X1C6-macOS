@@ -1466,7 +1466,7 @@
                     <key>BundlePath</key>
                     <string>CPUFriendDataProvider.kext</string>
                     <key>Comment</key>
-                    <string>V1.0.0 | CPUFriendDataProvider.kext</string>
+                    <string>V1.0.1 | CPUFriendDataProvider.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
